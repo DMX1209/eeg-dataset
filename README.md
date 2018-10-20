@@ -1,21 +1,4 @@
 # eeg-dataset
-
- 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
-
- 
+During experiment, these subjects were seated in front of a computer screen and followed the instruction to perform two MI tasks (left hand, right hand). The EEG data used in this paper was sampled at 250 Hz. The EEG used for processing is recorded from Ag-AgCl electrodes that are placed according to the extended international 10-20 system. The following 5 channels are included: C3, C1, Cz, C2 and C4. In
+this experiment, The dataset includes three sessions in the training set. Each trial was structured as follows. First, a rest icon was shown on the screen to remind subjects to rest for 3 seconds with the arm relaxed, followed by a prepare indicator allowing subjects
+to prepare for task for 3 seconds. Then, a begin icon shown on screen for 0.5 seconds. Finally, one of these two patterns were displayed casually for 6 seconds meanwhile the subject was performing MI tasks.
